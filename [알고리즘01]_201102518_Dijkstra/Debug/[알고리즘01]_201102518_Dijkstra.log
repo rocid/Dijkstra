@@ -1,0 +1,14 @@
+﻿빌드 시작: 2015-11-18 오후 8:36:27
+     1>2 노드의 "c:\Users\rocid\documents\visual studio 2015\Projects\[알고리즘01]_201102518_Dijkstra\[알고리즘01]_201102518_Dijkstra\[알고리즘01]_201102518_Dijkstra.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt Dijkstra.c
+         Dijkstra.c
+     1>c:\users\rocid\documents\visual studio 2015\projects\[알고리즘01]_201102518_dijkstra\[알고리즘01]_201102518_dijkstra\dijkstra.c(34): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\rocid\documents\visual studio 2015\Projects\[알고리즘01]_201102518_Dijkstra\Debug\[알고리즘01]_201102518_Dijkstra.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\rocid\documents\visual studio 2015\Projects\[알고리즘01]_201102518_Dijkstra\Debug\[알고리즘01]_201102518_Dijkstra.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\rocid\documents\visual studio 2015\Projects\[알고리즘01]_201102518_Dijkstra\Debug\[알고리즘01]_201102518_Dijkstra.lib" /MACHINE:X86 Debug\Dijkstra.obj
+         [알고리즘01]_201102518_Dijkstra.vcxproj -> c:\users\rocid\documents\visual studio 2015\Projects\[알고리즘01]_201102518_Dijkstra\Debug\[알고리즘01]_201102518_Dijkstra.exe
+     1>"c:\Users\rocid\documents\visual studio 2015\Projects\[알고리즘01]_201102518_Dijkstra\[알고리즘01]_201102518_Dijkstra\[알고리즘01]_201102518_Dijkstra.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.29
